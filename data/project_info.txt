@@ -1,0 +1,2 @@
+
+The Multimodal Data Processing System, codenamed "Project Nexus", aims to create a unified knowledge base from diverse file formats. The project started on October 15, 2025. It handles PDFs, text files, and MP4 videos. The lead developer is Alex. The chosen database is ChromaDB for its simplicity. The core LLM is Google's Gemini.

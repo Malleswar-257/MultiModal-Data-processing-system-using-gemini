@@ -1,0 +1,13 @@
+llama-index
+llama-index-core
+llama-index-llms-google-genai
+llama-index-embeddings-huggingface
+llama-index-readers-file
+openai-whisper
+torch
+pydub
+moviepy
+pypdf
+python-docx
+python-pptx
+python-dotenv
